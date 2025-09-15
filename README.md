@@ -1,7 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d8cff,100:6de195&height=180&section=header&text=Hi%20👋%20I'm%20Meron%20Yeneneh&fontSize=40&fontAlign=50&fontColor=ffffff" alt="Header"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B132B,100:3A506B&height=200&section=header&text=👋%20Hi!%20I'm%20Meron%20Yeneneh&fontSize=48&fontAlign=50&fontColor=ffffff&animation=fadeIn"
+    alt="Header"
+  />
 </p>
+
 
 ## 👩‍💻 Who Am I?
 
