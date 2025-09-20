@@ -67,9 +67,8 @@ Git · GitHub · Postman · VS Code · XAMPP · Chrome DevTools
 
 ### 🌟 Featured Projects
 
-- **[Pet-Twin](https://github.com/Meron16/AI-Agent-Recruiter)**: AI platform matching pets with adopters (React, Node.js, AI)
+
 - **[AI Agent Recruiter](https://github.com/Meron16/AI-Agent-Recruiter)**: Smart recruiter screening resumes & scheduling interviews (React, Node.js, Tailwind)
-- **[Emotion Detection for Autism Support](https://github.com/Meron16/Emotion-Detection)**: Real-time AI emotion tool for autistic students (Python, OpenCV, TensorFlow)
 - **[BDU Career Development Center](https://github.com/Meron16/dental-clinical-system)**: Career tools site connecting students to mentors (React, Typescript, MongoDB)
 - **[Bluenile Resort Hotel](https://github.com/Meron16/Blue-Nile-Backened)**: Modern hotel site with booking & elegant UI (React, Node.js, MongoDB)
 
@@ -85,6 +84,4 @@ Git · GitHub · Postman · VS Code · XAMPP · Chrome DevTools
 
 > “Build with passion. Code with purpose. Empower with technology.” 🚀
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meron16&show_icons=true&theme=radical" alt="Meron's GitHub Stats"/>
-</p>
+
